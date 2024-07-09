@@ -52,3 +52,4 @@ REDIRECT URL BACK TO BUCKET NAME:
 <img src="https://imgur.com/r7XQ9Hy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/dUXgmVu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+- <b> The end result should look something like this or along the lines of it. The rest is up the owner on how they want to customize their website or use it simply for experimentation/lab purposes.
