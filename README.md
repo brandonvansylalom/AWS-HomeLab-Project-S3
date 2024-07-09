@@ -1,7 +1,7 @@
 <h1>AWS Project - Hosting a static website using S3 on Route 53</h1>
 
 <h2>Description</h2>
-This is an entry-level/beginner project to introduce familiarity with AWS, starting with S3. I'll be setting up a website using Amazon S3 and connecting it to a custom domain via Amazon Route 53.
+This is an entry-level/beginner project to introduce familiarity with AWS, starting with S3. This project is something introductory within getting hands-on within the AWS architectures and services but still an important and foundational area to know. I'll be setting up a website using Amazon S3 and connecting it to a custom domain via Amazon Route 53.
   
 <h2>Lab walk-through/details:</h2>
 
